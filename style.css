@@ -140,8 +140,9 @@ li.active{
     width: 360px;
     height: 360px;
     float: left;
-    margin-bottom: 20px;
-    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    margin-left: 30px;
 
 }
 .portfolio-item  .item img{
